@@ -1366,6 +1366,7 @@ ExterQual,Exterior1st,Fireplaces,Foundation,GarageArea,GrLivArea,HeatingQC,House
 2,Wd Sdng,0,BrkTil,160.0,790,2,1Story,2,Reg,SWISU,6,4,1.0,1718.0,1940.0
 2,Wd Sdng,0,CBlock,660.0,1604,4,1.5Fin,2,Reg,Edwards,5,6,2.0,3248.0,1950.5
 2,HdBoard,0,CBlock,264.0,987,2,2Story,2,Reg,BrDale,6,5,2.0,1734.0,1973.0
+2,VinylSd,0,PConc,400.0,1394,3,SLvl,3,Reg,Timber,5,7,3.0,2178.0,2006.5
 2,Stucco,0,BrkTil,200.0,864,2,1Story,2,Reg,Edwards,3,5,2.0,1928.0,1932.0
 2,BrkFace,2,CBlock,550.0,2117,4,1Story,2,IR1,NAmes,6,7,3.0,3872.0,1970.0
 2,Wd Sdng,0,BrkTil,576.0,1762,4,2Story,3,Reg,OldTown,7,8,3.0,2934.0,1935.0
