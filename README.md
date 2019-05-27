@@ -1,5 +1,9 @@
 # putb_nycdsa_kaggle
 
-pump_up_the_bayes Kaggle competition group project code and supporting files
+pump_up_the_bayes (Paul Young Min Cho + Alexander Sigman) Kaggle competition group project code and supporting files
 
-Stay tuned! 
+The Jupyter notebook file contains EDA and modeling code. 
+
+Original train/test data, CSVs generated during EDA phase, and Kaggle submission CSV located in data folder. 
+
+
