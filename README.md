@@ -6,4 +6,6 @@ The Jupyter notebook file contains EDA and modeling code.
 
 Original train/test data, CSVs generated during EDA phase, and Kaggle submission CSV located in data folder. 
 
+Images folder for presentation purposes only. 
+
 
