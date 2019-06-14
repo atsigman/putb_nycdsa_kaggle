@@ -4,7 +4,7 @@ pump_up_the_bayes (Young Min [Paul] Cho + Alexander Sigman) Kaggle competition g
 
 The Jupyter notebook file contains EDA and modeling code. 
 
-Original train/test data, CSVs generated during EDA phase, and Kaggle submission CSV located in data folder. 
+Original train/test data, CSVs generated during EDA phase, and Kaggle submission CSV are located in data folder. 
 
 Images folder for presentation purposes only. 
 
